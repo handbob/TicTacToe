@@ -1,2 +1,2 @@
 # TicTacToe
-.NET Core C# console game.
+C# .NET Core console game.
